@@ -38,7 +38,7 @@ CREATE TABLE `login_test` (
 -- Dumping data for table `login_test`
 --
 
-INSERT INTO `login_test` (`username`, `email`, `pass1`, `pass2`) VALUES('Matheus Felipe', 'MatheusFelipe@microtecnica.com.br', 'dto2022@', 'dto2022@!');COMMIT;
+INSERT INTO `login_test` (`username`, `email`, `pass1`, `pass2`) VALUES('Joao', 'joao.andrade@microtecnica.com.br', 'dto2022@', 'dto2022@!');COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;

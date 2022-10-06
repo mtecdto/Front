@@ -1,15 +1,15 @@
 <?php
     //name of the server
-    $server = "localhost";
+    $server = "172.16.0.18";
 
     //username of server (default -> root)
-    $user = "root";
+    $user = "dtoadm";
 
     //password of server (default -> empty)
-    $pass = "";
+    $pass = "dtoAdmin2022lab";
 
     //name of the database (it will change according to your database name)
-    $db = "login";
+    $db = "dto_keys";
 
     //make connection
 
