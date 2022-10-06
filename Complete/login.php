@@ -45,7 +45,7 @@
         header('location:admin.php');
     }
     else{
-        echo('Check Your Username and Password');
+        echo("<script>alert('Usuário ou senha incorreto')</script> <a class href='index.php'>Fazer login</a> ");
     }
 
 ?>

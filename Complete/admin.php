@@ -19,7 +19,7 @@
 
         }
     </style>
-    <title>Welocome 
+    <title>Welcome 
         <?php
             echo($_COOKIE['loginDemo']);
         ?>
