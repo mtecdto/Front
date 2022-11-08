@@ -22,7 +22,7 @@
     }
     else if($action == "delete")
     {
-        $id = $_GET['idkey'];
+        $id = $_GET['id'];
         $controller->{$action}($id);
     }
     else if($action == "search")
